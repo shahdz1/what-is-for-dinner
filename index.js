@@ -14,10 +14,12 @@ var food = [
                 number: "2",
                 item: `1/2 cup Caesar dressing`
             },
+
             {
                 number: "3",
                 item: `1/2 cup parmesan cheese, shaved`
             },
+            
             {
                 number: "4",
                 item: `1 cup croutons`
